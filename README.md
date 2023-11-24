@@ -1,6 +1,5 @@
 # IISc_Capstone_TimeGAN_CNN
-Time-series Generative Adversarial Networks (TimeGAN) is the work of Jinsung Yoon, Daniel Jarrett, and Mihaela van der Schaar (paper). 
-This repository implements TimeGAN (original code) with TensorFlow 2.X version, mainly for the Hide-and-seek privacy challenge held by NeurIPS (webpage).
+This implementation of Time-series Generative Adversarial Networks (TimeGAN)is inspired by the original work of Jinsung Yoon, Daniel Jarrett, and Mihaela van der Schaar. 
 
 This implementation is done using TimeGAN with CNNs as the Embedder, Recovery, Supervisor and Discriminator Networks, 
 In this implementation, One audio file was used and trained the Audio files were converted to STFT and then passed on through the Network
